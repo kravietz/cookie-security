@@ -1,6 +1,6 @@
 # Most popular cookie names on the web
 
-<table id="topcookies">
+<table>
 
 <caption>Most popular cookie names used by 805183 surveyed websites</caption>
 
