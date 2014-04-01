@@ -3,7 +3,7 @@
 We scanned 805183 websites, that on average set 10.0 cookies,
 most frequently 0 cookies (modal, median is 6).
 
-![Distribution of number of cookies](/static/media/stats/num_cookies20140331.png)
+![Distribution of number of cookies](http://webcookies.info/static/media/stats/num_cookies20140331.png)
 
 <table>
 
