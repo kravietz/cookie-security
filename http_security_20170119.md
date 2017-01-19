@@ -14,12 +14,12 @@
 <tbody>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://privacyinternational.org/sites/all/modules/webform_civicrm/js/webform_civicrm_forms.js?o8k15y=" href="https://webcookies.org/cookies/privacyinternational.org/2863868" itemprop="name">privacyinternational.org</a></td>
+			<td><a title="https://privacyinternational.org/misc/form.js?v=7.44" href="https://webcookies.org/cookies/privacyinternational.org/2868814" itemprop="name">privacyinternational.org</a></td>
 			<td itemprop="ratingValue">11</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://economics.indiana.edu/" href="https://webcookies.org/cookies/economics.indiana.edu/2084818" itemprop="name">economics.indiana.edu</a></td>
+			<td><a title="https://economics.indiana.edu/includes/slides/fulfilling-the-promise/" href="https://webcookies.org/cookies/economics.indiana.edu/2858705" itemprop="name">economics.indiana.edu</a></td>
 			<td itemprop="ratingValue">11</td>
 		</tr>
 	
@@ -54,7 +54,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://webcookies.org/http-headers/link" href="https://webcookies.org/cookies/webcookies.org/3109671" itemprop="name">webcookies.org</a></td>
+			<td><a title="https://webcookies.org/http-headers/access-control-allow-origin" href="https://webcookies.org/cookies/webcookies.org/3109669" itemprop="name">webcookies.org</a></td>
 			<td itemprop="ratingValue">10</td>
 		</tr>
 	
@@ -69,12 +69,12 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://vimeo.com/" href="https://webcookies.org/cookies/vimeo.com/2996943" itemprop="name">vimeo.com</a></td>
+			<td><a title="https://vimeo.com/home" href="https://webcookies.org/cookies/vimeo.com/2996941" itemprop="name">vimeo.com</a></td>
 			<td itemprop="ratingValue">10</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.brico.be/?e=true" href="https://webcookies.org/cookies/www.brico.be/3001725" itemprop="name">www.brico.be</a></td>
+			<td><a title="https://www.brico.be/checkout/multi/payment" href="https://webcookies.org/cookies/www.brico.be/3001762" itemprop="name">www.brico.be</a></td>
 			<td itemprop="ratingValue">10</td>
 		</tr>
 	
@@ -104,7 +104,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.bnpparibasfortis.be/portal/start.asp" href="https://webcookies.org/cookies/www.bnpparibasfortis.be/3008384" itemprop="name">www.bnpparibasfortis.be</a></td>
+			<td><a title="https://www.bnpparibasfortis.be/private/start.asp" href="https://webcookies.org/cookies/www.bnpparibasfortis.be/3008394" itemprop="name">www.bnpparibasfortis.be</a></td>
 			<td itemprop="ratingValue">10</td>
 		</tr>
 	
@@ -164,7 +164,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://securityheaders.io/js/nr.min.js" href="https://webcookies.org/cookies/securityheaders.io/2868815" itemprop="name">securityheaders.io</a></td>
+			<td><a title="https://securityheaders.io/js/init.min.js" href="https://webcookies.org/cookies/securityheaders.io/2868823" itemprop="name">securityheaders.io</a></td>
 			<td itemprop="ratingValue">10</td>
 		</tr>
 	
@@ -214,7 +214,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://xo.tc/" href="https://webcookies.org/cookies/xo.tc/2991776" itemprop="name">xo.tc</a></td>
+			<td><a title="https://xo.tc/my-dream-password-manager.html" href="https://webcookies.org/cookies/xo.tc/2854485" itemprop="name">xo.tc</a></td>
 			<td itemprop="ratingValue">10</td>
 		</tr>
 	
@@ -324,12 +324,12 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.theguardian.com/?page=with%3Ablock-58028682e4b0160123896273" href="https://webcookies.org/cookies/www.theguardian.com/3005664" itemprop="name">www.theguardian.com</a></td>
+			<td><a title="https://www.theguardian.com/uk" href="https://webcookies.org/cookies/www.theguardian.com/3011611" itemprop="name">www.theguardian.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://m.facebook.com/friends/hovercard/mbasic/?uid=100012952482135&amp;redirectURI=%2Ffriends%2Fcenter%2Frequests%2F%3Fmfl_act%3D1%23last_acted&amp;refid=7" href="https://webcookies.org/cookies/m.facebook.com/3005080" itemprop="name">m.facebook.com</a></td>
+			<td><a title="https://m.facebook.com/recover/initiate/?c=https%3A%2F%2Fm.facebook.com%2Flogin%2F%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin%252Fdevice-based%252Fedit-user%252F&amp;lwv=101" href="https://webcookies.org/cookies/m.facebook.com/3000955" itemprop="name">m.facebook.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -349,7 +349,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://privacyinternational.org/misc/form.js?v=7.43" href="https://webcookies.org/cookies/privacyinternational.org/2839688" itemprop="name">privacyinternational.org</a></td>
+			<td><a title="http://privacyinternational.org/" href="https://webcookies.org/cookies/privacyinternational.org/1362572" itemprop="name">privacyinternational.org</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -364,7 +364,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://twitter.com" href="https://webcookies.org/cookies/twitter.com/1301312" itemprop="name">twitter.com</a></td>
+			<td><a title="https://twitter.com/fortradingday88" href="https://webcookies.org/cookies/twitter.com/1252312" itemprop="name">twitter.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -374,7 +374,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://github.com" href="https://webcookies.org/cookies/github.com/1212686" itemprop="name">github.com</a></td>
+			<td><a title="https://github.com/" href="https://webcookies.org/cookies/github.com/1127455" itemprop="name">github.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -394,7 +394,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://static.xx.fbcdn.net/rsrc.php/v2/y8/r/8S8pqksMOjq.js" href="https://webcookies.org/cookies/static.xx.fbcdn.net/2861794" itemprop="name">static.xx.fbcdn.net</a></td>
+			<td><a title="https://static.xx.fbcdn.net/rsrc.php/v2iOB14/yA/l/it_IT/iUN38tvhlJh.js" href="https://webcookies.org/cookies/static.xx.fbcdn.net/2867917" itemprop="name">static.xx.fbcdn.net</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -454,7 +454,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://medium.com/" href="https://webcookies.org/cookies/medium.com/1290821" itemprop="name">medium.com</a></td>
+			<td><a title="https://medium.com" href="https://webcookies.org/cookies/medium.com/1213091" itemprop="name">medium.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -529,7 +529,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://mobile.twitter.com/jory99988?max_id=vega%3A%2F%2Finvalid%2F&amp;%3F=" href="https://webcookies.org/cookies/mobile.twitter.com/3013802" itemprop="name">mobile.twitter.com</a></td>
+			<td><a title="https://mobile.twitter.com/" href="https://webcookies.org/cookies/mobile.twitter.com/3013803" itemprop="name">mobile.twitter.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -719,7 +719,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://player.vimeo.com/video/24492485?title=0&amp;byline=0&amp;portrait=0" href="https://webcookies.org/cookies/player.vimeo.com/2836850" itemprop="name">player.vimeo.com</a></td>
+			<td><a title="https://player.vimeo.com/video/28928793" href="https://webcookies.org/cookies/player.vimeo.com/2870170" itemprop="name">player.vimeo.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -784,7 +784,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://apps.shopify.com/" href="https://webcookies.org/cookies/apps.shopify.com/2990817" itemprop="name">apps.shopify.com</a></td>
+			<td><a title="https://apps.shopify.com/shopify-widgets" href="https://webcookies.org/cookies/apps.shopify.com/2990453" itemprop="name">apps.shopify.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -804,7 +804,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://travelchat.com/cart/" href="https://webcookies.org/cookies/travelchat.com/3001206" itemprop="name">travelchat.com</a></td>
+			<td><a title="https://travelchat.com/" href="https://webcookies.org/cookies/travelchat.com/3001207" itemprop="name">travelchat.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -814,7 +814,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.bundlestars.com/en/bundle/mumbojumbo-mega-bundle" href="https://webcookies.org/cookies/www.bundlestars.com/2866308" itemprop="name">www.bundlestars.com</a></td>
+			<td><a title="https://www.bundlestars.com/api/daily-deal" href="https://webcookies.org/cookies/www.bundlestars.com/2866301" itemprop="name">www.bundlestars.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -849,7 +849,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://mobile.facebook.com/" href="https://webcookies.org/cookies/mobile.facebook.com/2997549" itemprop="name">mobile.facebook.com</a></td>
+			<td><a title="https://mobile.facebook.com/shiffat.jannat" href="https://webcookies.org/cookies/mobile.facebook.com/3006190" itemprop="name">mobile.facebook.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -1214,7 +1214,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://content.mail.ru/img/logo_content_small.gif" href="https://webcookies.org/cookies/content.mail.ru/3091878" itemprop="name">content.mail.ru</a></td>
+			<td><a title="https://content.mail.ru/" href="https://webcookies.org/cookies/content.mail.ru/3100452" itemprop="name">content.mail.ru</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -1254,7 +1254,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.dred.com/uk" href="https://webcookies.org/cookies/www.dred.com/3114342" itemprop="name">www.dred.com</a></td>
+			<td><a title="https://www.dred.com/de" href="https://webcookies.org/cookies/www.dred.com/3114346" itemprop="name">www.dred.com</a></td>
 			<td itemprop="ratingValue">9</td>
 		</tr>
 	
@@ -1269,7 +1269,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.youtube.com/watch?v=JTlT-z7Q8U0&amp;feature=youtu.be" href="https://webcookies.org/cookies/www.youtube.com/2806944" itemprop="name">www.youtube.com</a></td>
+			<td><a title="https://www.youtube.com/watch?v=qbt4dac1Uwk" href="https://webcookies.org/cookies/www.youtube.com/3008867" itemprop="name">www.youtube.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1279,17 +1279,17 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://m.facebook.com/lindi.masango.39?searchloggerdata=eyJzZWFyY2hfc2lkIjo5MjE4ODUyMDIsInF1ZXJ5IjoibGluZGkiLCJzZWFyY2hfdHlwZSI6IlNlYXJjaCIsInNlcXVlbmNlX2lkIjoxNzI0NTgxODg1LCJwYWdlX251bWJlciI6MSwiZmlsdGVyX3R5cGUiOiJTZWFyY2giLCJlbnRfaWQiOjEwMDAwMjAwNTQxMjkzMSwicG9zaXRpb24iOjAsInJlc3VsdF90eXBlIjoyMDQ4fQ%3D%3D&amp;refid=46&amp;ref=logo" href="https://webcookies.org/cookies/m.facebook.com/1126533" itemprop="name">m.facebook.com</a></td>
+			<td><a title="https://m.facebook.com/wioleta.rosochacka?%2Frdr=" href="https://webcookies.org/cookies/m.facebook.com/3110040" itemprop="name">m.facebook.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.facebook.com/profile.php?id=100006995924941&amp;fref=ts" href="https://webcookies.org/cookies/www.facebook.com/2934003" itemprop="name">www.facebook.com</a></td>
+			<td><a title="https://www.facebook.com/pages/Webcookiesinfo/362128707234253" href="https://webcookies.org/cookies/www.facebook.com/1128224" itemprop="name">www.facebook.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://tresorit.com/" href="https://webcookies.org/cookies/tresorit.com/2195752" itemprop="name">tresorit.com</a></td>
+			<td><a title="https://tresorit.com" href="https://webcookies.org/cookies/tresorit.com/1213403" itemprop="name">tresorit.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1309,7 +1309,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.pinterest.com/pin/345932815103563722/" href="https://webcookies.org/cookies/www.pinterest.com/1295897" itemprop="name">www.pinterest.com</a></td>
+			<td><a title="https://www.pinterest.com/bestreviews2015/the-best-gaming-laptops-2015/" href="https://webcookies.org/cookies/www.pinterest.com/1296545" itemprop="name">www.pinterest.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1339,17 +1339,17 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=12&amp;ct=1463778688&amp;rver=6.6.6556.0&amp;wp=MBI_SSL&amp;wreply=https%3A%2F%2Foutlook.live.com%2Fowa%2F&amp;id=292841&amp;CBCXT=out&amp;fl=wld" href="https://webcookies.org/cookies/login.live.com/2846268" itemprop="name">login.live.com</a></td>
+			<td><a title="https://login.live.com/" href="https://webcookies.org/cookies/login.live.com/2865411" itemprop="name">login.live.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://facebook.com" href="https://webcookies.org/cookies/facebook.com/1301369" itemprop="name">facebook.com</a></td>
+			<td><a title="https://facebook.com/" href="https://webcookies.org/cookies/facebook.com/1264189" itemprop="name">facebook.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.reddit.com/api/info.json?url=https%3A%2F%2Fwww.smartdnsproxy.com%2F&amp;jsonp=_ate.cbs.rcb_c3600" href="https://webcookies.org/cookies/www.reddit.com/2762979" itemprop="name">www.reddit.com</a></td>
+			<td><a title="https://www.reddit.com/api/info.json?url=https%3A%2F%2Fyts.ag%2F&amp;jsonp=_ate.cbs.rcb_j0ik0" href="https://webcookies.org/cookies/www.reddit.com/2821032" itemprop="name">www.reddit.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1379,7 +1379,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://static.xx.fbcdn.net/rsrc.php/v2iy3O4/yv/l/zh_TW/QYV3zBBrvO0.js" href="https://webcookies.org/cookies/static.xx.fbcdn.net/2983968" itemprop="name">static.xx.fbcdn.net</a></td>
+			<td><a title="https://static.xx.fbcdn.net/rsrc.php/v2icIE4/yf/l/es_LA/1Zcp24N_c6i.js" href="https://webcookies.org/cookies/static.xx.fbcdn.net/2839726" itemprop="name">static.xx.fbcdn.net</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1394,7 +1394,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.microsoftstore.com/store/msfr/fr_FR/home?WT.mc_id=pointitsem+Google+Adwords+FR-Microsoft&amp;s_kwcid=AL%214249%213%2187908198782%21e%21%21g%21%21microsoft&amp;ef_id=U9X0-QAABM8hyBA3%3A20161220132023%3As" href="https://webcookies.org/cookies/www.microsoftstore.com/3099599" itemprop="name">www.microsoftstore.com</a></td>
+			<td><a title="https://www.microsoftstore.com/store/mseea/it_IT/home" href="https://webcookies.org/cookies/www.microsoftstore.com/2999792" itemprop="name">www.microsoftstore.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1424,12 +1424,12 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://inforesist.org/wp-content/themes/dw-focus%20new/yandex.html" href="https://webcookies.org/cookies/inforesist.org/2844958" itemprop="name">inforesist.org</a></td>
+			<td><a title="https://inforesist.org/poyavilis-video-unichtozheniya-rossiyskih-artilleristov-pod-yasinovatoy/" href="https://webcookies.org/cookies/inforesist.org/2844915" itemprop="name">inforesist.org</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://youtu.be/" href="https://webcookies.org/cookies/youtu.be/2999688" itemprop="name">youtu.be</a></td>
+			<td><a title="https://youtu.be/ftvZDbzj-JQ" href="https://webcookies.org/cookies/youtu.be/2999686" itemprop="name">youtu.be</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1484,7 +1484,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://epoch.com/billingsupport/assets/application-2fa26cce5b71ec2e93c8ebe7f216f7ec.js" href="https://webcookies.org/cookies/epoch.com/2292791" itemprop="name">epoch.com</a></td>
+			<td><a title="https://epoch.com/billing_support/find_purchase" href="https://webcookies.org/cookies/epoch.com/3001022" itemprop="name">epoch.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1549,7 +1549,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://ipredator.se/" href="https://webcookies.org/cookies/ipredator.se/2762423" itemprop="name">ipredator.se</a></td>
+			<td><a title="https://ipredator.se/static/js/sjcl.js" href="https://webcookies.org/cookies/ipredator.se/2762424" itemprop="name">ipredator.se</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1594,7 +1594,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://relap.io/api/v6/head.js?token=wVcubJMXS7ZLiI2I" href="https://webcookies.org/cookies/relap.io/2844946" itemprop="name">relap.io</a></td>
+			<td><a title="https://relap.io/api/v6/head.js?token=p9-n1FDU216ja9LX" href="https://webcookies.org/cookies/relap.io/2637446" itemprop="name">relap.io</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1629,7 +1629,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://cm.marketgid.com/i.gif?rurl=https%3A%2F%2Frelap.io%2Fapi%2Fpartners%2Fmgcs.gif%3F_s%3DD79o6w" href="https://webcookies.org/cookies/cm.marketgid.com/2844966" itemprop="name">cm.marketgid.com</a></td>
+			<td><a title="https://cm.marketgid.com/i.gif?rurl=https%3A%2F%2Frelap.io%2Fapi%2Fpartners%2Fmgcs.gif%3F_s%3DPsjI6w" href="https://webcookies.org/cookies/cm.marketgid.com/2917967" itemprop="name">cm.marketgid.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1649,7 +1649,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://connect.mail.ru/share_count?func=services.moimir.cb&amp;callback=1&amp;url_list=http%3A%2F%2Ftvoyopomeste.ru%2Fpublikacii%2Fkak-vygadat-i-ne-progadat.html" href="https://webcookies.org/cookies/connect.mail.ru/2718167" itemprop="name">connect.mail.ru</a></td>
+			<td><a title="https://connect.mail.ru/share_count?func=services.moimir.cb&amp;callback=1&amp;url_list=http%3A%2F%2Fshratva.ru%2F" href="https://webcookies.org/cookies/connect.mail.ru/2629609" itemprop="name">connect.mail.ru</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1809,7 +1809,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://d2h6m9ihko7kz3.cloudfront.net/genjs/srv-server4/t-6f8798c7e835ac4132e5650dae5acba3/l-H4sIAAAAAAAAA0vOz83Nz9PLKtZJyiktAtFVmXmZJUAGAFp9aBAaAAAA/cl-en/h-22b91c48b2de65b110c27342ec6b7dbb" href="https://webcookies.org/cookies/d2h6m9ihko7kz3.cloudfront.net/2307643" itemprop="name">d2h6m9ihko7kz3.cloudfront.net</a></td>
+			<td><a title="https://d2h6m9ihko7kz3.cloudfront.net/genjs/srv-server3/t-86b378fae46d94e5bb67f63c44ecc836/l-H4sIAAAAAAAAA0vOz83Nz9PLKtZJyiktAtFVmXmZJUAGAFp9aBAaAAAA/cl-en/h-832c8d65a8bc597d3cd2cc3469e6d38b" href="https://webcookies.org/cookies/d2h6m9ihko7kz3.cloudfront.net/2311832" itemprop="name">d2h6m9ihko7kz3.cloudfront.net</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1854,7 +1854,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.applovin.com/signup" href="https://webcookies.org/cookies/www.applovin.com/3001071" itemprop="name">www.applovin.com</a></td>
+			<td><a title="https://www.applovin.com/" href="https://webcookies.org/cookies/www.applovin.com/3002741" itemprop="name">www.applovin.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1874,7 +1874,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.airtm.io/landing/js/optimized-landing.08660b298a7fb6a5.js" href="https://webcookies.org/cookies/www.airtm.io/3003803" itemprop="name">www.airtm.io</a></td>
+			<td><a title="https://www.airtm.io/" href="https://webcookies.org/cookies/www.airtm.io/3003801" itemprop="name">www.airtm.io</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1884,12 +1884,12 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.messenger.com/" href="https://webcookies.org/cookies/www.messenger.com/3007694" itemprop="name">www.messenger.com</a></td>
+			<td><a title="https://www.messenger.com/t/mauricio.silva.75457081" href="https://webcookies.org/cookies/www.messenger.com/3007693" itemprop="name">www.messenger.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.bluekrypt.com/plugins/system/jcemediabox/js/jcemediabox.js?f246943abadb42a78f823affe64fe7cc=" href="https://webcookies.org/cookies/www.bluekrypt.com/2844911" itemprop="name">www.bluekrypt.com</a></td>
+			<td><a title="https://www.bluekrypt.com/en/" href="https://webcookies.org/cookies/www.bluekrypt.com/2844908" itemprop="name">www.bluekrypt.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1899,7 +1899,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.keylength.com/js/jquery.tooltip.js" href="https://webcookies.org/cookies/www.keylength.com/2844904" itemprop="name">www.keylength.com</a></td>
+			<td><a title="https://www.keylength.com/js/jquery.js" href="https://webcookies.org/cookies/www.keylength.com/2844903" itemprop="name">www.keylength.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1949,12 +1949,12 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://ressources.cloudswave.net/js/jquery-scrollspy.js" href="https://webcookies.org/cookies/ressources.cloudswave.net/2841756" itemprop="name">ressources.cloudswave.net</a></td>
+			<td><a title="https://ressources.cloudswave.net/js/combined.js?1463072178=" href="https://webcookies.org/cookies/ressources.cloudswave.net/2841763" itemprop="name">ressources.cloudswave.net</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://bootstrap.cloudswave.net/js/application.js" href="https://webcookies.org/cookies/bootstrap.cloudswave.net/2841754" itemprop="name">bootstrap.cloudswave.net</a></td>
+			<td><a title="https://bootstrap.cloudswave.net/js/plan.ui.js" href="https://webcookies.org/cookies/bootstrap.cloudswave.net/2841750" itemprop="name">bootstrap.cloudswave.net</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -1989,7 +1989,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://www.periscope.tv/" href="https://webcookies.org/cookies/www.periscope.tv/2996725" itemprop="name">www.periscope.tv</a></td>
+			<td><a title="https://www.periscope.tv/w/1MnGnnYOAmjGO/card" href="https://webcookies.org/cookies/www.periscope.tv/2996640" itemprop="name">www.periscope.tv</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -2019,7 +2019,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://web.facebook.com/impression.php/f13a4369fc/?lid=115&amp;payload=%7B%22source%22%3A%22jssdk%22%7D" href="https://webcookies.org/cookies/web.facebook.com/3008455" itemprop="name">web.facebook.com</a></td>
+			<td><a title="https://web.facebook.com/" href="https://webcookies.org/cookies/web.facebook.com/3009931" itemprop="name">web.facebook.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -2074,7 +2074,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://scryptmail.com/js/main/jquery-2.1.3.min.js?bust=45" href="https://webcookies.org/cookies/scryptmail.com/2930462" itemprop="name">scryptmail.com</a></td>
+			<td><a title="https://scryptmail.com/js/main/forge/prime.js?bust=45" href="https://webcookies.org/cookies/scryptmail.com/2930544" itemprop="name">scryptmail.com</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
@@ -2494,7 +2494,7 @@
 		</tr>
 	
 		<tr itemscope itemtype="http://schema.org/Rating">
-			<td><a title="https://accounts.zoho.eu/" href="https://webcookies.org/cookies/accounts.zoho.eu/3092349" itemprop="name">accounts.zoho.eu</a></td>
+			<td><a title="https://accounts.zoho.eu/accounts/register.js?servicename=ZohoHome&amp;loadcss=false&amp;tvisit=true" href="https://webcookies.org/cookies/accounts.zoho.eu/3081132" itemprop="name">accounts.zoho.eu</a></td>
 			<td itemprop="ratingValue">8</td>
 		</tr>
 	
